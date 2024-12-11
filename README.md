@@ -45,14 +45,6 @@ To run the application, execute the following command:
 
 The Streamlit application will start and can be accessed in your web browser at http://localhost:8501.
 
-Project Structure
------------------
-
-├── app.py # The main application script 
-    ├── requirements.txt # Project dependencies 
-    ├── .env # Environment variables file 
-    ├── temp\_files # Directory for storing uploaded files 
-    └── README.md # This file
 
 Usage
 -----
