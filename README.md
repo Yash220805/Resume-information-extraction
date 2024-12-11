@@ -76,3 +76,10 @@ Contributing
 ------------
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
+
+
+Output
+------------
+
+![image](https://github.com/user-attachments/assets/163701df-9b6f-4111-bd7b-d6c238aa86f9)
+
